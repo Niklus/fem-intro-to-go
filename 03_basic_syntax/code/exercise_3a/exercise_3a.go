@@ -13,7 +13,7 @@ func main () {
 		}
 	}
 	
-  // Print even letters
+  // Print all letters
 	for _, element := range motto {
 		fmt.Println(string(element))	
 	}
